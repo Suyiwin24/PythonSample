@@ -1,0 +1,17 @@
+﻿username - Suyiwin24
+email - suthakin7@gmail.com
+password - suyiwin85
+
+
+git init
+git add .
+git config --global user.email"useremail"
+git config --global user.name "username"
+git commit -m "first commit"
+git remote add origin https://github.com/brainseeddeveloper/PythonSample.git
+git push -u origin master
+
+
+git add .
+git commit-m"second commit"
+git push
